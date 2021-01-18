@@ -1,1 +1,1 @@
-# Ultrasonic-3D-Scanner
+# Ultrasonic 3D Scanner
